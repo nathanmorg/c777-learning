@@ -1,0 +1,33 @@
+body {
+    box-sizing: border-box;
+}
+header {
+    background-color: red;
+}
+nav {
+    float: left;
+    background-color: lightcoral;
+    padding: 20px;
+    height: 300px;
+    width: 20%;
+}
+article {
+    float: left;
+    padding: 20px;
+    height: 100px;
+    width: 40%;
+    background-color: lightyellow;
+}
+aside {
+    float: right;
+    padding: 20px;
+    height: 300px;
+    width: 30%;
+    background-color: greenyellow;
+}
+footer {
+    background-color: purple;
+    padding: 10px;
+    height: 20px;
+    width: 100%;
+}
